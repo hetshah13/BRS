@@ -6,3 +6,8 @@ In Top Rating of Books, we have selected the top 50 books based on Rating score.
 
 In User-Based Collaborative Filtering, we predict the books that a user might like based on ratings given to that book by other users who have a similar 
 taste to that of the target user.
+
+This Repository only have pickle files and streamlit app.py. 
+
+Original data files(CSV) and programmed files are in another repository Book Recommendation:
+https://github.com/hetshah13/Book_Recommendation
