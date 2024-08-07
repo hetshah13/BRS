@@ -11,5 +11,5 @@ taste to that of the target user.
 This Repository only have pickle files and a Streamlit app.py. 
 
 >[!NOTE]
-Original Data Files(CSV) and Programmed Files are in another repository [Book Recommendation](https://github.com/hetshah13/Book_Recommendation)
+Original Data Files(CSV) and Programmed Files are in another repository: [Book Recommendation](https://github.com/hetshah13/Book_Recommendation)
 
